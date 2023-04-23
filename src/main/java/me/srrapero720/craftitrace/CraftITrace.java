@@ -39,7 +39,7 @@ public class CraftITrace {
 
     public static void printTrace(StackTraceElement[] stackTrace, StringBuilder crashReportBuilder) {
         if (stackTrace != null && stackTrace.length > 0) {
-            crashReportBuilder.append("\n[CraftICrashes] Mixins in Stacktrace:");
+            crashReportBuilder.append("\n[CraftITrace] Mixins in Stacktrace:");
 
             try {
                 List<String> classNames = new ArrayList<>();
