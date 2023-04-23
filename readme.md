@@ -1,4 +1,4 @@
-# CRAFTICRASHES
+# CRAFTITRACE
 The port of [CraftyCrashes](https://github.com/Chocohead/Crafty-Crashes) 
 and [MixinTrace](https://github.com/comp500/mixintrace) in a one convenient mod<br>
 originally this mod was wrapped into my main mod [WATERCoRE](https://github.com/SrRapero720/WATERCoRE)
